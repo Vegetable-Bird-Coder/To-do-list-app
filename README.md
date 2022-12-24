@@ -1,0 +1,4 @@
+- Provided security/login with Spring Security
+- Used Spring Data Jpa to connect the database
+- Managed the data with MySQL and Docker
+- Built the front end with the JSP
